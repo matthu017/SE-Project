@@ -1,0 +1,59 @@
+job started at Sun Apr 30 23:08:57 EDT 2023
+
+Lmod is automatically replacing "python/3.6-conda5.2" with
+"miniconda3/4.10.3-py37".
+
+
+processing final_project_AVSE_audio_only_stoiloss_speech_enhancement_version01-epoch=24-val_loss=0 -5.0 
+
+
+final_project_AVSE_audio_only_stoiloss_speech_enhancement_version01-epoch=24-val_loss=0 -5.0 PESQ/STOI/GTPESQ/STSTOI:   1.5937242563565566 / 0.8944956276345134 / 1.1166003926595045 / 0.6876353415767579 
+
+
+processing final_project_AVSE_audio_only_stoiloss_speech_enhancement_version01-epoch=24-val_loss=0 0.0 
+
+
+final_project_AVSE_audio_only_stoiloss_speech_enhancement_version01-epoch=24-val_loss=0 0.0 PESQ/STOI/GTPESQ/STSTOI:   1.8711719167232517 / 0.9257233482479988 / 1.1614872511227918 / 0.7517656376415516 
+
+
+processing final_project_AVSE_audio_only_stoiloss_speech_enhancement_version01-epoch=24-val_loss=0 5.0 
+
+
+final_project_AVSE_audio_only_stoiloss_speech_enhancement_version01-epoch=24-val_loss=0 5.0 PESQ/STOI/GTPESQ/STSTOI:   2.185924101670583 / 0.945051040309082 / 1.2384556070963544 / 0.8113469843260882 
+
+
+processing final_project_AVSE_audio_visual_stoiloss_speech_enhancement_version_Pat-last -5.0 
+
+
+final_project_AVSE_audio_visual_stoiloss_speech_enhancement_version_Pat-last -5.0 PESQ/STOI/GTPESQ/STSTOI:   1.65598083337148 / 0.8762370722871149 / 1.1166003926595045 / 0.6876353415767579 
+
+
+processing final_project_AVSE_audio_visual_stoiloss_speech_enhancement_version_Pat-last 0.0 
+
+
+final_project_AVSE_audio_visual_stoiloss_speech_enhancement_version_Pat-last 0.0 PESQ/STOI/GTPESQ/STSTOI:   1.9495004165172565 / 0.9120872984593363 / 1.1614872511227918 / 0.7517656376415516 
+
+
+processing final_project_AVSE_audio_visual_stoiloss_speech_enhancement_version_Pat-last 5.0 
+
+
+final_project_AVSE_audio_visual_stoiloss_speech_enhancement_version_Pat-last 5.0 PESQ/STOI/GTPESQ/STSTOI:   2.2630458732446037 / 0.934754434014181 / 1.2384556070963544 / 0.8113469843260882 
+
+
+processing final_project_AVSE_audio_visual_stoiloss_speech_enhancement_version01-epoch=69-val_loss=0 -5.0 
+
+
+final_project_AVSE_audio_visual_stoiloss_speech_enhancement_version01-epoch=69-val_loss=0 -5.0 PESQ/STOI/GTPESQ/STSTOI:   1.6671428116162625 / 0.9140126977957195 / 1.1166003926595045 / 0.6876353415767579 
+
+
+processing final_project_AVSE_audio_visual_stoiloss_speech_enhancement_version01-epoch=69-val_loss=0 0.0 
+
+
+final_project_AVSE_audio_visual_stoiloss_speech_enhancement_version01-epoch=69-val_loss=0 0.0 PESQ/STOI/GTPESQ/STSTOI:   1.9567011054356886 / 0.9374264539923197 / 1.1614872511227918 / 0.7517656376415516 
+
+
+processing final_project_AVSE_audio_visual_stoiloss_speech_enhancement_version01-epoch=69-val_loss=0 5.0 
+
+
+final_project_AVSE_audio_visual_stoiloss_speech_enhancement_version01-epoch=69-val_loss=0 5.0 PESQ/STOI/GTPESQ/STSTOI:   2.2766641894976294 / 0.9532673647712391 / 1.2384556070963544 / 0.8113469843260882 
+

@@ -1,0 +1,4 @@
+job started at Sun Apr 23 10:48:28 EDT 2023
+on compute node o0647
+/var/spool/slurmd/job24417797/slurm_script: line 19: 16143 Killed                  python ${SLURM_SUBMIT_DIR}/${PGM}
+slurmstepd: error: Detected 1 oom-kill event(s) in StepId=24417797.batch. Some of your processes may have been killed by the cgroup out-of-memory handler.
